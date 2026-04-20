@@ -17,13 +17,17 @@ I'm Igor, nice to meet you!
 [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">](https://www.postgresql.org)
 
 ### 🚀 Areas of Interest
+[<img src="https://img.shields.io/badge/Krita-A364D9?style=for-the-badge&logo=krita&logoColor=white">](https://krita.org/)
 [<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">](https://www.qt.io/)
 [<img src="https://img.shields.io/badge/My_Qt_Project-gray?style=for-the-badge&logo=github&logoColor=white">](https://github.com/IgorK97/AudioPlayer)
 [<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">](https://reactnative.dev/)
 [<img src="https://img.shields.io/badge/My_React_Native_Project-gray?style=for-the-badge&logo=github&logoColor=white">](https://github.com/IgorK97/Mobile-E-Library)
 [<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">](https://redis.io)
 
-
+### Beyond Coding
+I am a passionate reader with a particular interest in:
+* **East Asian Fiction** (Japanese, Chinese, and Korean literature)
+* **Non-fiction:** Neurobiology, Neural Networks, History, Cultural Studies
 
 
 <!--
