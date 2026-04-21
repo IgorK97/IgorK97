@@ -1,10 +1,15 @@
 ## Hi there 👋
 I'm Igor, nice to meet you!
 
+- 🔭 I’m currently working on a digital library system with fuzzy search and MinIO
+- 🌱 I’m currently learning advanced PostgreSQL indexing (GIN, Trigrams) and AI fundamentals
+- 💬 Ask me about .NET, React, or why I enjoy East Asian literature
+
 ---
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:kt.wert.74@gmail.com)
+[<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/ik1214tpk)
 ---
 
 ### Expertise & Tech Stack
@@ -15,6 +20,10 @@ I'm Igor, nice to meet you!
 [<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">](https://dotnet.microsoft.com/)
 [<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">](https://www.w3schools.com/cpp/)
 [<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">](https://www.postgresql.org)
+![MinIO](https://img.shields.io/badge/MinIO-%23ec1c24.svg?style=for-the-badge&logo=minio&logoColor=white)
+
+[<img src="https://img.shields.io/badge/My_React_Project-gray?style=for-the-badge&logo=github&logoColor=white">](https://github.com/IgorK97/chronolibris-web)
+[<img src="https://img.shields.io/badge/My_.NET_Project-gray?style=for-the-badge&logo=github&logoColor=white">](https://github.com/IgorK97/chronolibris-server)
 
 ### 🚀 Areas of Interest
 [<img src="https://img.shields.io/badge/Krita-A364D9?style=for-the-badge&logo=krita&logoColor=white">](https://krita.org/)
@@ -28,6 +37,11 @@ I'm Igor, nice to meet you!
 I am a passionate reader with a particular interest in:
 * **East Asian Fiction** (Japanese, Chinese, and Korean literature)
 * **Non-fiction:** Neurobiology, Neural Networks, History, Cultural Studies
+
+### 📊 GitHub Stats
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorK97&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorK97&layout=compact&theme=radical)
 
 
 <!--
