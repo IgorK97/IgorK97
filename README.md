@@ -38,11 +38,11 @@ I am a passionate reader with a particular interest in:
 * **East Asian Fiction** (Japanese, Chinese, and Korean literature)
 * **Non-fiction:** Neurobiology, Neural Networks, History, Cultural Studies
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorK97&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorK97&layout=compact&theme=radical)
-
+-->
 
 <!--
 **IgorK97/IgorK97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
